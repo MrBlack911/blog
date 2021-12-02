@@ -1,9 +1,3 @@
 theme: jekyll-theme-cayma
-
-defaults:
-  -
-    scope:
-      page.title: "projects"
-      type: "pages"
-    values:
-      content : "Mr_Black"
+title: My First Page
+layout: default
