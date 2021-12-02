@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayma
+
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      author: "Mr_Black"
