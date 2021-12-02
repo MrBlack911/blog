@@ -3,7 +3,7 @@ theme: jekyll-theme-cayma
 defaults:
   -
     scope:
-      path: "projects"
+      page.title: "projects"
       type: "pages"
     values:
-      author: "Mr_Black"
+      content : "Mr_Black"
